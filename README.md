@@ -1,5 +1,6 @@
 # TextToSpeechConverter
 Convert typed text to speech.<br>
+Note: This project is a Work in Progress. Info about how to run the project will be added in the near future.
 &copy; 2021 electroNBS. All Rights Reserved.<br>
 
 <blockquote>
