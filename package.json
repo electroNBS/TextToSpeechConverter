@@ -18,7 +18,7 @@
     "react-native": "https://github.com/expo/react-native/archive/sdk-41.0.0.tar.gz",
     "react-native-elements": "*",
     "react-native-paper": "3.6.0",
-    "react-native-responsive-fontsize": "*",
+    "react-native-responsive-fontsize": "0.5.1",
     "react-native-web": "~0.13.12"
   },
   "devDependencies": {
