@@ -10,7 +10,7 @@
   "dependencies": {
     "expo": "^42.0.0",
     "expo-av": "~9.2.3",
-    "expo-constants": "~11.0.0",
+    "expo-constants": "~11.1.0",
     "expo-speech": "~9.2.1",
 
     "expo-status-bar": "~1.2.0",
