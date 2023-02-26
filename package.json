@@ -8,6 +8,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
+
     "expo": "^48.0.0",
     "expo-av": "~13.2.1",
     "expo-constants": "~14.2.1",
@@ -23,7 +24,27 @@
     "@expo/webpack-config": "^18.0.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.20.0",
+    "expo": "^42.0.5",
+    "expo-av": "~9.2.3",
+    "expo-constants": "~11.1.0",
+    "expo-speech": "~9.2.1",
+
+
+    "expo-status-bar": "~1.4.3",
+
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-41.0.0.tar.gz",
+    "react-native-elements": "3.4.3",
+    "react-native-paper": "3.12.0",
+
+    "react-native-responsive-fontsize": "0.5.1",
+
+    "react-native-web": "~0.18.11"
+
+
   },
+
   "private": true
 }
