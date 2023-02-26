@@ -11,10 +11,15 @@
 ## Install
 
 ```sh
-npm install
+npm install --legacy-peer-deps
 ```
 
 ## Usage
+Run the following commands:
+
+```sh
+set NODE_OPTIONS=--openssl-legacy-provider
+```
 
 ```sh
 npm start
