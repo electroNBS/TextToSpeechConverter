@@ -70,7 +70,7 @@ const styles = StyleSheet.create({
     flexDirection: "column",
     backgroundColor: "lightblue",
     padding: 10,
-    alignItems: "space-around",
+    //alignItems: "space-around",
   },
   header: {
     backgroundColor: "dodgerblue",
@@ -126,7 +126,7 @@ const styles = StyleSheet.create({
     marginBottom: 10,
     textAlign: "center",
     borderRadius: 100,
-    borderWidth: "3px",
+    borderWidth: 3,
     padding: 5,
     marginRight: 20,
     marginLeft: 20,
@@ -135,6 +135,6 @@ const styles = StyleSheet.create({
   buttonText: {
     color: "white",
     fontSize: 17,
-    fontFamily: "cursive",
+    //fontFamily: "cursive",
   },
 });
